@@ -81,7 +81,7 @@ You have a complex system architecture described in Mermaid code — nodes, edge
 
 ```
 Your Mermaid Code  →  AI Prompt Composer  →  Image Generator  →  Professional PNG
-    (input)            (understands your       (Gemini AI)        (download link)
+    (input)            (understands your       (AI-powered)       (download link)
                         architecture)
 ```
 
@@ -278,7 +278,7 @@ Need to deploy Diagram Designer within your organization's infrastructure? Have 
 
 <div align="center">
 
-### If you find this useful, please consider giving a star!
+### ⭐ If you find this useful, please consider giving a star! ⭐
 
 [![Star on MCPize](https://img.shields.io/badge/Star_on-MCPize-7c3aed?style=for-the-badge)](https://mcpize.com/mcp/diagram-designer)
 [![Star on GitHub](https://img.shields.io/badge/Star_on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/LeDat98/mcp-diagram-designer)
@@ -286,8 +286,6 @@ Need to deploy Diagram Designer within your organization's infrastructure? Have 
 Your support helps us improve and build more features.
 
 ---
-
-**Built with** Gemini AI **·** FastMCP **·** Cloudflare R2
 
 MIT License © 2026 Le Duc Dat
 
