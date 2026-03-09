@@ -281,7 +281,7 @@ Need to deploy Diagram Designer within your organization's infrastructure? Have 
 ### If you find this useful, please consider giving a star!
 
 [![Star on MCPize](https://img.shields.io/badge/Star_on-MCPize-7c3aed?style=for-the-badge)](https://mcpize.com/mcp/diagram-designer)
-[![Star on GitHub](https://img.shields.io/badge/Star_on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/leducdat-profile/diagram-designer-showcase)
+[![Star on GitHub](https://img.shields.io/badge/Star_on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/LeDat98/mcp-diagram-designer)
 
 Your support helps us improve and build more features.
 
