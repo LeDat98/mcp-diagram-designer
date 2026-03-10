@@ -37,13 +37,13 @@ You have a complex system architecture described in Mermaid code — nodes, edge
 
 > Clean, modern cloud-native diagrams with AWS/GCP/Azure color palettes. Perfect for system documentation and presentations.
 
-![DeepRAG Cloud Architecture](showcase/Deeprag_cloud.png)
+![DeepRAG Cloud Architecture](showcase/Deeprag_cloud.jpg)
 
 <details>
 <summary><b>More Cloud Style Examples</b></summary>
 
 #### ShopFlow E-Commerce Platform
-![ShopFlow Cloud Architecture](showcase/ecommerce_cloud.png)
+![ShopFlow Cloud Architecture](showcase/ecommerce_cloud.jpg)
 
 </details>
 
@@ -53,7 +53,7 @@ You have a complex system architecture described in Mermaid code — nodes, edge
 
 > Sleek dark backgrounds with neon accents. Ideal for tech presentations, pitch decks, and modern documentation.
 
-![DataPulse Streaming Architecture](showcase/streaming_darkmode.png)
+![DataPulse Streaming Architecture](showcase/streaming_darkmode.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ You have a complex system architecture described in Mermaid code — nodes, edge
 
 > 3D layered perspective that intuitively conveys system hierarchy and depth. The most visually stunning option for showcasing complex platforms.
 
-![NeuralForge MLOps Architecture](showcase/ai_platform_isometric.png)
+![NeuralForge MLOps Architecture](showcase/ai_platform_isometric.jpg)
 
 ---
 
