@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="showcase/logo.png" alt="Diagram Designer" width="200" />
+
 # Diagram Designer
 
 ### Transform messy Mermaid code into stunning architecture diagrams
